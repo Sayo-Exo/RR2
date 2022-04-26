@@ -1,25 +1,37 @@
 -- Roofy Ragdolls 2 --
 - by Charles Game Dev -
 
-Programmers
-- Charles Game Dev
+= Programmers =
 
-Artists
-- Oliver Bowles
+Charles Game Dev
 
-Sound Effects
-- Oliver Bowles
-- Taycin Tackket
 
-Music
-- Taycin Tackket
+= Artists =
 
-Designers
-- Charles Game Dev
-- Jared Lim
-- Oliver Bowles
-- Taycin Tackket
+Oliver Bowles
 
-Special Thanks
-- Everyone who plays and supports Roofy Ragdolls 2
-- You!
+
+= Sound Effects =
+
+Oliver Bowles
+Taycin Tackket
+
+
+= Music =
+
+Taycin Tackket
+Charles Game Dev
+
+
+= Designers =
+
+Charles Game Dev
+Jared Lim
+Oliver Bowles
+Taycin Tackket
+
+
+
+= Special Thanks =
+Everyone who plays and supports Roofy Ragdolls 2
+You!
